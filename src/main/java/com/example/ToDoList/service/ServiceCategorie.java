@@ -1,4 +1,4 @@
-package com.example.ToDoList.srevice;
+package com.example.ToDoList.service;
 
 import com.example.ToDoList.entities.Categorie;
 import com.example.ToDoList.repository.CategorieRepository;
